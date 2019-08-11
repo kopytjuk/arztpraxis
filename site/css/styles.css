@@ -1,0 +1,35 @@
+#carouselExampleCaptions {
+}
+
+#carouselExampleCaptions .carousel-inner {
+}
+
+#carouselExampleCaptions img {
+    height: 500px;
+    object-fit: cover;
+}
+
+#carouselExampleCaptions .carousel-item p {
+    font-size: 1.2em
+}
+
+#carouselExampleCaptions .carousel-item h5 {
+    font-size: 1.5em
+}
+
+#carouselExampleCaptions img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.highlight-bar {
+    height: 5px;
+    width: 20vw;
+    background-color: red;
+    margin-bottom: 20px;
+}
+
+#news-area .card{
+    margin-top: 5px;
+    /* box-shadow: 2px 2px 2px black; */
+}

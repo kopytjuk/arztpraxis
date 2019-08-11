@@ -41,6 +41,10 @@
     text-shadow: 2px 2px 3px black;
 }
 
+#disclaimer{
+    font-size: 0.8em;
+}
+
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 

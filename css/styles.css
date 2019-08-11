@@ -37,6 +37,10 @@
     height: 300px;
 }
 
+.carousel-caption{
+    text-shadow: 2px 2px 3px black;
+}
+
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 
